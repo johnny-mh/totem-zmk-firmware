@@ -83,7 +83,7 @@ layers:
   - $
   - '{'
   - '}'
-  - '&press_two_keys GREATER_THAN EQUAL'
+  - '`'
   - +
   - '7'
   - '8'
