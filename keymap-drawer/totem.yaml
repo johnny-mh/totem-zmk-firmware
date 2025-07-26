@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RIGHT GUI}
   - {t: K, h: RSHFT}
   - {t: L, h: RIGHT ALT}
-  - {t: ;, h: RCTRL}
+  - {t: ;, h: LEFT CONTROL}
   - TAB
   - Z
   - X
