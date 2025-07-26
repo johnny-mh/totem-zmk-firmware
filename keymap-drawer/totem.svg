@@ -630,9 +630,7 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(330, 121)" class="key keypos-14">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-22" y="-24" width="43" height="40" class="key"/>
-<text x="0" y="-4" class="key tap">
-<tspan x="0" dy="-1.2em" style="font-size: 64%">&amp;press_two…</tspan><tspan x="0" dy="1.2em" style="font-size: 64%">MINUS</tspan><tspan x="0" dy="1.2em" style="font-size: 64%">GREATER_TH…</tspan>
-</text>
+<text x="0" y="-4" class="key tap">\</text>
 </g>
 <g transform="translate(520, 121)" class="key keypos-15">
 <rect rx="6" ry="6" x="-28" y="-26" width="55" height="52" class="key side"/>

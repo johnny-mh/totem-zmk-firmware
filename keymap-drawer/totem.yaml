@@ -93,7 +93,7 @@ layers:
   - {t: '@', h: LEFT ALT}
   - {t: (, h: LSHFT}
   - {t: ), h: Navigation}
-  - '&press_two_keys MINUS GREATER_THAN'
+  - \
   - '='
   - '4'
   - '5'
