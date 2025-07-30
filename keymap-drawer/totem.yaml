@@ -163,3 +163,5 @@ combos:
   k: {t: SYSTEM, h: toggle}
 - p: [11, 12, 13]
   k: CAPS WORD
+- p: [11, 34]
+  k: '&press_two_keys LCTRL SPACE'

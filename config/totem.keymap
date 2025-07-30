@@ -72,6 +72,11 @@
             bindings = <&caps_word>;
             key-positions = <11 12 13>;
         };
+
+        lang {
+            bindings = <&press_two_keys LCTRL SPACE>;
+            key-positions = <11 34>;
+        };
     };
 
     macros {
