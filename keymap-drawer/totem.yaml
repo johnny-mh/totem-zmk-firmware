@@ -89,10 +89,10 @@ layers:
   - '8'
   - '9'
   - ;
-  - {t: '!', h: LCTRL}
-  - {t: '@', h: LEFT ALT}
-  - {t: (, h: LSHFT}
-  - {t: ), h: Navigation}
+  - {t: '!', h: LSHIFT}
+  - {t: '@', h: LCTRL}
+  - {t: (, h: LGUI}
+  - {t: ), h: LALT}
   - \
   - '='
   - '4'
