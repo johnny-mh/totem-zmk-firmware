@@ -77,6 +77,11 @@
             bindings = <&press_two_keys LCTRL SPACE>;
             key-positions = <11 34>;
         };
+
+        del {
+            bindings = <&kp DEL>;
+            key-positions = <6 7>;
+        };
     };
 
     macros {

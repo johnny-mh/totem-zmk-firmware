@@ -165,3 +165,5 @@ combos:
   k: CAPS WORD
 - p: [11, 34]
   k: '&press_two_keys LCTRL SPACE'
+- p: [6, 7]
+  k: DEL
