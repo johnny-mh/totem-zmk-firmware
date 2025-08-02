@@ -53,12 +53,6 @@
         backspace {
             bindings = <&kp BACKSPACE>;
             key-positions = <16 17>;
-            timeout-ms = <70>;
-        };
-
-        to_digits_layer {
-            bindings = <&to 3>;
-            key-positions = <32 37>;
         };
 
         caps-words {

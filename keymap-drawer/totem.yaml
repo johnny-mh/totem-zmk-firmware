@@ -159,8 +159,6 @@ layers:
 combos:
 - p: [16, 17]
   k: BACK SPACE
-- p: [32, 37]
-  k: {t: SYSTEM, h: toggle}
 - p: [11, 12, 13]
   k: CAPS WORD
 - p: [11, 34]
