@@ -17,7 +17,7 @@ layers:
   - {t: F, h: LALT}
   - G
   - H
-  - {t: J, h: LALT}
+  - {t: J, h: RALT}
   - {t: K, h: LGUI}
   - {t: L, h: LCTRL}
   - {t: ;, h: LSHIFT}
