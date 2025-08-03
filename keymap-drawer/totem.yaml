@@ -157,7 +157,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
 combos:
-- p: [17, 18]
+- p: [17, 16]
   k: BACK SPACE
 - p: [11, 12, 13]
   k: CAPS WORD
