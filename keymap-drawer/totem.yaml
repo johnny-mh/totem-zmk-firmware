@@ -17,10 +17,10 @@ layers:
   - {t: F, h: LALT}
   - G
   - H
-  - {t: J, h: RALT}
-  - {t: K, h: RGUI}
-  - {t: L, h: RCTRL}
-  - {t: ;, h: RSHIFT}
+  - {t: J, h: LALT}
+  - {t: K, h: LGUI}
+  - {t: L, h: LCTRL}
+  - {t: ;, h: LSHIFT}
   - TAB
   - Z
   - X
@@ -157,11 +157,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
 combos:
-- p: [16, 17]
+- p: [17, 18]
   k: BACK SPACE
 - p: [11, 12, 13]
   k: CAPS WORD
-- p: [11, 34]
-  k: '&press_two_keys LCTRL SPACE'
-- p: [6, 7]
-  k: DEL
