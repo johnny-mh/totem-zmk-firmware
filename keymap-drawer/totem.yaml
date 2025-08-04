@@ -31,13 +31,13 @@ layers:
   - M
   - ','
   - .
-  - {t: /, h: '&comment'}
+  - '?'
   - {t: '''', h: '"'}
   - Digits
-  - {t: ESC, h: Navigation}
+  - {t: ESC, h: '&lt 1'}
   - SPACE
   - RET
-  - {t: ESC, h: SYSTEM}
+  - {t: ESC, h: '&lt 3'}
   - Digits
   Navigation:
   - {t: ▽, type: trans}
@@ -73,7 +73,7 @@ layers:
   - {t: PAGE DOWN, h: toggle}
   - CAPSLOCK
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -154,12 +154,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
 - p: [17, 16]
   k: BACK SPACE
 - p: [11, 12, 13]
   k: CAPS WORD
-- p: [11, 34]
+- p: [34, 21]
   k: '&press_two_keys LCTRL SPACE'
