@@ -34,10 +34,10 @@ layers:
   - '?'
   - {t: '''', h: '"'}
   - Digits
-  - {t: ESC, h: '&lt 1'}
+  - {t: ESC, h: Navigation}
   - SPACE
   - RET
-  - {t: ESC, h: '&lt 3'}
+  - {t: ESC, h: SYSTEM}
   - Digits
   Navigation:
   - {t: ▽, type: trans}
@@ -73,7 +73,7 @@ layers:
   - {t: PAGE DOWN, h: toggle}
   - CAPSLOCK
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -154,7 +154,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
 combos:
 - p: [17, 16]
