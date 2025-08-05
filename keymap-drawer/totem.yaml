@@ -34,8 +34,8 @@ layers:
   - /
   - {t: '''', h: '"'}
   - Digits
-  - {t: ESC, h: Navigation}
-  - SPACE
+  - {t: SPACE, h: Navigation}
+  - ENTER
   - RET
   - {t: ESC, h: SYSTEM}
   - Digits
@@ -163,3 +163,5 @@ combos:
   k: CAPS WORD
 - p: [34, 21]
   k: '&press_two_keys LCTRL SPACE'
+- p: [0, 1]
+  k: ESC
