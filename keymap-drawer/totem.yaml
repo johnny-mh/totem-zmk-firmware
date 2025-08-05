@@ -35,7 +35,7 @@ layers:
   - {t: '''', h: '"'}
   - Digits
   - {t: SPACE, h: Navigation}
-  - ENTER
+  - SPACE
   - RET
   - {t: ESC, h: SYSTEM}
   - Digits

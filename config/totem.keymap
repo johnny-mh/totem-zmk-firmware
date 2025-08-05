@@ -152,7 +152,7 @@
          &kp Q         &kp W         &kp E        &kp R          &kp T        &kp Y    &kp U        &kp I        &kp O         &kp P
          &hml LSHFT A  &hml LCTRL S  &hml LGUI D  &hml LALT F    &kp G        &kp H    &hmr RALT J  &hmr LGUI K  &hmr LCTRL L  &hmr LSHIFT SEMICOLON
 &kp TAB  &kp Z         &kp X         &kp C        &kp V          &kp B        &kp N    &kp M        &kp COMMA    &kp DOT       &kp SLASH              &mt DOUBLE_QUOTES SQT
-                                     &mo DIG      &lt NAV SPACE  &kp ENTER    &kp RET  &lt SYS ESC  &mo DIG
+                                     &mo DIG      &lt NAV SPACE  &kp SPACE    &kp RET  &lt SYS ESC  &mo DIG
             >;
         };
 
