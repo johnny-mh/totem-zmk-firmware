@@ -61,7 +61,7 @@
         };
 
         lang {
-            bindings = <&press_two_keys LCTRL SPACE>;
+            bindings = <&kp LC(SPACE)>;
             key-positions = <34 21>;
         };
 

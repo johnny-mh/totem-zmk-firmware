@@ -162,6 +162,6 @@ combos:
 - p: [11, 12, 13]
   k: CAPS WORD
 - p: [34, 21]
-  k: '&press_two_keys LCTRL SPACE'
+  k: Ctl+ SPACE
 - p: [0, 1]
   k: ESC
