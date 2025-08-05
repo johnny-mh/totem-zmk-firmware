@@ -31,7 +31,7 @@ layers:
   - M
   - ','
   - .
-  - '?'
+  - /
   - {t: '''', h: '"'}
   - Digits
   - {t: ESC, h: Navigation}
