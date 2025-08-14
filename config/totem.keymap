@@ -53,6 +53,7 @@
         backspace {
             bindings = <&kp BACKSPACE>;
             key-positions = <17 16>;
+            timeout-ms = <20>;
         };
 
         caps-words {
@@ -68,6 +69,7 @@
         esc {
             bindings = <&kp ESC>;
             key-positions = <0 1>;
+            timeout-ms = <20>;
         };
     };
 
